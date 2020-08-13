@@ -1,0 +1,11 @@
+{
+  "package": "yor42.deathmessageplus.mixin",
+  "refmap": "mixins.yor42.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "minVersion": "0.7.11",
+  "mixins": [
+    "util.minecraft.mixincombattracker"
+  ]
+}
